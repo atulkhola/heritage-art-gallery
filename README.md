@@ -34,16 +34,16 @@ A stunning, interactive art gallery showcasing Vietnamese heritage art with beau
 
 ## 🌟 Live Demo
 
-Visit the live gallery: [Heritage Art Gallery](https://your-username.github.io/heritage-art-gallery)
+Visit the live gallery: [Heritage Art Gallery](https://atulkhola.github.io/heritage-art-gallery)
 
 ## 🎯 Inspiration
 
 Inspired by the elegant design of [Lumen Artspace](https://www.lumenartspace.com/), this gallery celebrates Vietnamese heritage art with a contemporary digital presentation.
 
-## 🚀 Getting Started
+## �� Getting Started
 
 1. Clone this repository
-2. Open \`index.html\` in your browser
+2. Open `index.html` in your browser
 3. Enjoy the beautiful animations!
 
 ## 📱 Responsive Design
@@ -56,12 +56,12 @@ The gallery is fully responsive and works beautifully on:
 ## 🎨 Customization
 
 ### Colors
-- Primary: \`#d4af37\` (Golden)
-- Background: \`#fafafa\` (Light cream)
-- Text: \`#2c2c2c\` (Dark gray)
+- Primary: `#d4af37` (Golden)
+- Background: `#fafafa` (Light cream)
+- Text: `#2c2c2c` (Dark gray)
 
 ### Animations
-All animations are customizable through the \`script.js\` file. You can adjust:
+All animations are customizable through the `script.js` file. You can adjust:
 - Animation duration
 - Easing functions
 - Stagger timing
@@ -71,7 +71,7 @@ All animations are customizable through the \`script.js\` file. You can adjust:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## �� Acknowledgments
 
 - Vietnamese heritage art for inspiration
 - GSAP for amazing animation capabilities
